@@ -29,7 +29,7 @@ The dashboard includes various charts to showcase:
 <img src="https://www.interodigital.com/wp-content/uploads/2024/02/Decode-Your-Marketing-Analytics-Report-for-Strategic-Business-Insights-scaled.jpeg" alt="Python" width="800" height="500"/>
 
 The data reveals several key insights:
-https://www.interodigital.com/wp-content/uploads/2024/02/Decode-Your-Marketing-Analytics-Report-for-Strategic-Business-Insights-scaled.jpeg
+
 * The Consumer segment is the dominant contributor to both sales and profit.
 * California leads in sales, suggesting potential market saturation or strong customer loyalty.
 * Office Supplies generate the highest profit margin despite lower sales compared to other categories.
